@@ -2,7 +2,7 @@
 
 Outlier Simulation for Network Physiology.
 
-The script outlierVarSegGen contains the function used in the manuscript:
+The script outlierVarSegGen contains the Matlab function used in the manuscript:
 
 Assessment of Outliers and Detection of Artifactual Network Segments using Univariate and Multivariate Dispersion Entropy on Physiological Signals, Entropy, 2021
 
